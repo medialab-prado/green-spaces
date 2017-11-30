@@ -36,25 +36,17 @@ Utilización de conjuntos de datos geoespaciales dispuestos en capas sobre un ma
 Faced with the need to draw a profile of the area where the project will be implemented, we look for open data on New York City and, specifically, the Brooklyn neighborhood. We understand that the necessary information is related to the population profile, zoning, public transportation, bicycle corridor and flooding areas. With this information it is possible to understand how the population is distributed, moves, how the city is organized and the environmental problems already detected (floods, in the case of New York). We looked for this open data in American Census repositories anda NYC Open Data directory.
 
 #### Population
-[Density](https://data.cityofnewyork.us/City-Government/NYC_Population_Neighnborhoods/8hez-9j33)
-
-[Age](https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Census-Tracts/37cg-gxjd/data)   or [Age2](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
-
-[Race](https://www.dropbox.com/s/0d2gs4hp0t42qg1/tab01-33.csv?dl=0)
-
-[Household income](https://data.cityofnewyork.us/Housing-Development/Map-of-NYCHA-Developments/i9rv-hdr5/data) or [Household income2](http://catalog.opendata.city/dataset/median-household-income-2010-census-tracts/resource/a49e4469-6185-4147-a009-e575d785cef5)
-
-[Open spaces](https://data.cityofnewyork.us/Recreation/Open-Space-Parks-/g84h-jbjm)
-
+[Density](https://data.cityofnewyork.us/City-Government/NYC_Population_Neighnborhoods/8hez-9j33);
+[Age](https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Census-Tracts/37cg-gxjd/data)   or [Age2](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml);
+[Race](https://www.dropbox.com/s/0d2gs4hp0t42qg1/tab01-33.csv?dl=0);
+[Household income](https://data.cityofnewyork.us/Housing-Development/Map-of-NYCHA-Developments/i9rv-hdr5/data) or [Household income2](http://catalog.opendata.city/dataset/median-household-income-2010-census-tracts/resource/a49e4469-6185-4147-a009-e575d785cef5);
+[Open spaces](https://data.cityofnewyork.us/Recreation/Open-Space-Parks-/g84h-jbjm);
 [Gardens](http://www.greenthumbnyc.org/gardensearch.html#garden-list)
 
 #### Transports
-[Subways lines](https://data.cityofnewyork.us/Transportation/Subway-Lines/3qz8-muuu)
-
-[Subways stations](https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56)
-
-[Bus routes](https://www.baruch.cuny.edu/confluence/display/geoportal/NYC+Mass+Transit+Spatial+Layers)
-
+[Subways lines](https://data.cityofnewyork.us/Transportation/Subway-Lines/3qz8-muuu);
+[Subways stations](https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56);
+[Bus routes](https://www.baruch.cuny.edu/confluence/display/geoportal/NYC+Mass+Transit+Spatial+Layers);
 [Bike lanes](https://data.cityofnewyork.us/Transportation/Bike-Routes/7vsa-caz7)
 
 #### [Housing](https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Census-Tracts/37cg-gxjd/data)
