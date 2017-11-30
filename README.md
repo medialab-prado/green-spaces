@@ -1,7 +1,8 @@
 # VillageVanguard
 ## Espacios verdes / Green space
 
-Welcome to the green-spaces! 
+Welcome to the green-spaces!
+
 Bienvenido a espacios-verdes!
 
 ## Resumen
@@ -9,6 +10,7 @@ Bienvenido a espacios-verdes!
 Aumentar los espacios verdes urbanos es una estrategia eficaz para combatir las cada vez más frecuentes olas de calor y los riesgos de efecto isla de calor causados por el cambio climático, empleando la participación comunitaria en su planificación y el mantenimiento necesario para su éxito. La participación comunitaria asegura que los proyectos de espacios verdes urbanos atiendan las necesidades locales y reflejen la historia cultural, demográfica y del desarrollo de la comunidad. Sin embargo, la colaboración comunitaria en persona puede ser costosa a la hora de prepararla, dirigirla, difundirla y repetirla.
 
 Increasing urban green spaces is one successful strategy to combat increased heat waves and urban heat island effect risks caused by climate change, with community participation in their planning and maintenance necessary for their success. Community participation ensures that urban green space projects address local needs and reflect the cultural, demographic, and development history of the community. However, in-person community collaboration can be costly to prepare, run, report and replicate.
+
 
 ## Motivaciones
 
@@ -159,7 +161,7 @@ With about 12.4 million inhabitants, São Paulo has 12.4 square meters of green 
 
 
 ## Equipo / Team
-### Promotores: 
+### Promotor: 
 
 Erika Whillas - Project lead, erika.whillas@gmail.com, Australia
 
@@ -167,7 +169,7 @@ Erika Whillas - Project lead, erika.whillas@gmail.com, Australia
 
 Jake Caggiano - Desarrolador-Developer, jacob@mapseed.org, Estados Unidos
 
-Sonia Delgado Berrocal - Arq-Urbanista, paisajista e investigadora, sonarqpaisajes@gmail.com, España
+Sonia Delgado Berrocal - Arquitecta-Urbanista, paisajista e investigadora, sonarqpaisajes@gmail.com, España
 
 Malu Oliveria - Comunicadora e investigadora, maluoliveira60@gmail.com, Brasil
 
@@ -177,9 +179,6 @@ Trevor Croxson - Desarrolador-Developer, trevor@mapseed.org, Estados Unidos
 
 Luke Swart - Ingeniero informático, luke@mapseed.org, Estados Unidos
 
-
-## Contacto
-Erika Whillas
 
 ## Licencia
 CC by-sa-nc
@@ -195,3 +194,5 @@ augusta.mapseed.org
 
 
 ## Imagen
+
+
