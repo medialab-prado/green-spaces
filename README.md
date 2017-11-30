@@ -38,30 +38,30 @@ Faced with the need to draw a profile of the area where the project will be impl
 #### Population
 [Density](https://data.cityofnewyork.us/City-Government/NYC_Population_Neighnborhoods/8hez-9j33)
 
-[Age](https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Census-Tracts/37cg-gxjd/data   or - https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
+[Age](https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Census-Tracts/37cg-gxjd/data)   or [Age2](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
 
 [Race](https://www.dropbox.com/s/0d2gs4hp0t42qg1/tab01-33.csv?dl=0)
 
-[Household income](https://data.cityofnewyork.us/Housing-Development/Map-of-NYCHA-Developments/i9rv-hdr5/data or - http://catalog.opendata.city/dataset/median-household-income-2010-census-tracts/resource/a49e4469-6185-4147-a009-e575d785cef5)
+[Household income](https://data.cityofnewyork.us/Housing-Development/Map-of-NYCHA-Developments/i9rv-hdr5/data) or [Household income2](http://catalog.opendata.city/dataset/median-household-income-2010-census-tracts/resource/a49e4469-6185-4147-a009-e575d785cef5)
 
 [Open spaces](https://data.cityofnewyork.us/Recreation/Open-Space-Parks-/g84h-jbjm)
 
 [Gardens](http://www.greenthumbnyc.org/gardensearch.html#garden-list)
 
 #### Transports
-Subways lines - https://data.cityofnewyork.us/Transportation/Subway-Lines/3qz8-muuu
+[Subways lines](https://data.cityofnewyork.us/Transportation/Subway-Lines/3qz8-muuu)
 
-Subways stations - https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56
+[Subways stations](https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56)
 
-Bus routes - https://www.baruch.cuny.edu/confluence/display/geoportal/NYC+Mass+Transit+Spatial+Layers
+[Bus routes](https://www.baruch.cuny.edu/confluence/display/geoportal/NYC+Mass+Transit+Spatial+Layers)
 
-Bike lanes - https://data.cityofnewyork.us/Transportation/Bike-Routes/7vsa-caz7
+[Bike lanes](https://data.cityofnewyork.us/Transportation/Bike-Routes/7vsa-caz7)
 
-#### Housing - https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Census-Tracts/37cg-gxjd/data 
+#### [Housing](https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Census-Tracts/37cg-gxjd/data)
 
-#### Zoning - http://www1.nyc.gov/site/planning/data-maps/open-data/dwn-gis-zoning.page#metadata
+#### [Zoning](http://www1.nyc.gov/site/planning/data-maps/open-data/dwn-gis-zoning.page#metadata)
 
-#### Flood - https://project.wnyc.org/flooding-sandy-new/#12.00/40.6776/-74.0620
+#### [Flood](https://project.wnyc.org/flooding-sandy-new/#12.00/40.6776/-74.0620)
 
 
 ## **WORK FLOW**
