@@ -1,9 +1,8 @@
 # VillageVanguard
 ## Espacios verdes / Green space
 
-Welcome to the green-spaces!
+Bienvenido a espacios-verdes!  /  Welcome to the green-spaces!
 
-Bienvenido a espacios-verdes!
 
 ## Resumen
 
