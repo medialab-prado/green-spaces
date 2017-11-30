@@ -152,11 +152,8 @@ With about 12.4 million inhabitants, São Paulo has 12.4 square meters of green 
 
 
 ## Equipo / Team
-### Promotor: 
 
 Erika Whillas - Project lead, erika.whillas@gmail.com, Australia
-
-### Colaboradores: 
 
 Jake Caggiano - Desarrolador-Developer, jacob@mapseed.org, Estados Unidos
 
@@ -171,9 +168,6 @@ Trevor Croxson - Desarrolador-Developer, trevor@mapseed.org, Estados Unidos
 Luke Swart - Ingeniero informático, luke@mapseed.org, Estados Unidos
 
 
-## Licencia
-CC by-sa-nc
-
 ## URL
 hull.mapseed.org
 
@@ -182,6 +176,10 @@ williams.mapseed.org
 manzanares.mapseed.org
 
 augusta.mapseed.org
+
+
+## Licencia
+CC by-sa-nc
 
 
 ## Imagen
